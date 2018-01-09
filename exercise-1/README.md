@@ -24,3 +24,7 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+1. Air
+2. Cup of water
+3. Pride
